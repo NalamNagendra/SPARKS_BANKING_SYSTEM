@@ -106,7 +106,7 @@ html {
 .cover {
     width: 100%;
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.6)) , url('https://media.istockphoto.com/id/1043738042/photo/cute-young-calf-on-a-ranch.jpg?b=1&s=170667a&w=0&k=20&c=Rlr0SgV_bsOQjHwUAT9lZa7W3ZYpJbXStOx2-G91Ep4=');
+    background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.6)) , url('https://www.pexels.com/photo/white-lamb-wearing-blue-shirt-568022/');
     z-index: -200; 
     color: white;
 }
