@@ -16,7 +16,7 @@
 <body>
     <div class="nevbar" id="nevbar">
         <div class="logo">
-            <a href="/index.html" id="logo"><h1><span>THE TSF CHARITY</span> CHARITY</h1></a>
+            <a href="/index.html" id="logo"><h1><span>THE TSF</span> CHARITY</h1></a>
         </div>
         <div class="menu" id="menu">
             <ul>
@@ -183,6 +183,81 @@
             }
         }
     </script>
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <!-- head content -->
+
+</head>
+
+<body>
+
+    <!-- HTML content -->
+
+    <div class="contact" id="contact">
+
+        <h1>CONTACT ME</h1>
+
+        <br>
+
+        <div class="contactcontanner">
+
+            <div class="contanner">
+
+                <!-- address, phone, and email info -->
+
+            </div>
+
+            <div class="messageform">
+
+                <div class="form">
+
+                    <form id="contactForm" action="" method="POST">
+
+                        <!-- form fields -->
+
+                        <button type="submit">SEND MESSAGE</button>
+
+                    </form>
+
+                </div>
+
+            </div>
+
+        </div>          
+
+    </div>
+
+    <!-- scripts -->
+
+    <script>
+
+        var contactForm = document.getElementById("contactForm");
+
+        contactForm.addEventListener("submit", function(event) {
+
+            event.preventDefault();
+
+            var messageBox = document.createElement("p");
+
+            messageBox.textContent = "Details received successfully";
+
+            messageBox.style.color = "blue";
+
+            contactForm.appendChild(messageBox);
+
+            contactForm.reset();
+
+        });
+
+    </script>
+
+</body>
+
+</html>
 
 </body>
 </html>
