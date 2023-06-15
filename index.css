@@ -209,7 +209,7 @@ html {
 
     height: 100vh;
 
-    background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.6)) , url('https://www.pexels.com/photo/nature-animal-grass-meadow-34231/');
+    background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.6)) , url('panda.jpg');
 
     z-index: -200; 
 
@@ -395,7 +395,7 @@ html {
 
     position: absolute;
 
-    background: url('https://www.pexels.com/photo/animal-animal-photography-big-cat-feline-236599/');
+    background: url('deer.jpg');
 
     background-repeat: no-repeat;
 
@@ -719,7 +719,7 @@ html {
 
     padding: 125px 0;
 
-    background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.6)) , url('https://www.pexels.com/photo/white-lamb-wearing-blue-shirt-568022/');
+    background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.6)) , url('rabbit.jpg');
 
 }
 
