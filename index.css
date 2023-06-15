@@ -205,9 +205,9 @@ html {
 
 .cover {
 
-    width: 100%;
+    width: 200px;
 
-    height: 100vh;
+    height: 200px;
 
     background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.6)) , url('panda.jpg');
     background-repeat: no-repeat; 
@@ -404,7 +404,7 @@ html {
 
     background-size: cover;
 
-    width: 100%;
+    width: 200px;
 
     height: 350px;
 
@@ -712,7 +712,7 @@ html {
 
 .contact {
 
-    width: 100%;
+    width: 200px;
 
     box-sizing: border-box;
 
